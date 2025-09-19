@@ -9,3 +9,4 @@ Reference    /**
      * Attribution: The regex and validation approach below were crafted with assistance
      * from an AI tool OpenAI. (2025).ChatGPT [Large Language model]. hhtps://chat.openai.com/
      */
+     OpenAI. (2025). ChatGPT (GPT-4) [AI language model]. https://www.openai.com/chatgpt
